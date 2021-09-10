@@ -1,2 +1,2 @@
 # CS519.M11.KHCL 
-This is the respostory storing material and my practicing for CS519 - Scientific research methodology.
+This respository stores materials and my practicing for CS519 - Scientific research methodology.
